@@ -1,0 +1,8 @@
+<suite name="test">
+	<test name="test">
+		<classes>
+			<class
+				name="com.ericsson.eniqm.test.TestClass" />
+		</classes>
+	</test>
+</suite>

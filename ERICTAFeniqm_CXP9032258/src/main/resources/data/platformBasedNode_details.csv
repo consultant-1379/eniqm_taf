@@ -1,0 +1,5 @@
+NodeType,TopologyPath,SymlinkPath,EventSymlinkPath
+SAPC,"/outputfiles/core/topologyData/CoreNetwork/,/outputfiles/core/topologyData/CoreNetwork/sapc/","/core/topologyData/CoreNetwork/,/core/topologyData/CoreNetwork/sapc/","/core/topologyData/CoreNetwork/"
+MSCServer,"/outputfiles/core/topologyData/MSCCluster/,/outputfiles/core/topologyData/AXE/","/core/topologyData/MSCCluster/,/core/topologyData/AXE/","/core/topologyData/MSCCluster/,/core/topologyData/AXE/"
+HLRServer,"/outputfiles/core/topologyData/HLRBladeCluster/,/outputfiles/core/topologyData/AXE/","/core/topologyData/HLRBladeCluster/,/core/topologyData/AXE/","/core/topologyData/HLRBladeCluster/,/core/topologyData/AXE/"
+
